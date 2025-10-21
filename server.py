@@ -1,0 +1,1 @@
+print('Backend service started')
